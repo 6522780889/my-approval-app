@@ -8,12 +8,21 @@
     "start": "next start",
     "lint": "next lint"
   },
+<<<<<<< HEAD
   "dependencies": {
     "next": "14.2.3",
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "lucide-react": "latest"
   },
+=======
+"dependencies": {
+  "next": "latest",
+  "react": "latest",
+  "react-dom": "latest",
+  "lucide-react": "^0.300.0" 
+},
+>>>>>>> e0ee49b0508982fe72e4f0f5bf3b45b60ebd6aa8
   "devDependencies": {
     "typescript": "^5",
     "@types/node": "^20",
